@@ -8,7 +8,7 @@ Insert the server address in the SERVERADDRESS constant and use the transcribe m
 The sendDataToServer method translates the recieved inputStream to a string with UTF-8 charset.
 
 ## Configure Serveraddress:
-```
+```java
 private static final String SERVERADDRESS = "http://SERVERADRESS:8080/stt";
 ```
 
